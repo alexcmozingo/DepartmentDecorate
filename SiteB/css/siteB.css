@@ -1,1 +1,18 @@
-
+#Mathematics
+    {background-image: url(../../200.gif)}
+body
+{color: cyan; background-color: darkred;}
+a:link
+    {color: cyan}
+#Economics
+    {background-image: url(/money.gif);}
+#Politics
+    {background-image: url(/flag.gif)}
+#StudioArt
+    {background-image: url(/paint.gif)}
+#ComputerScience
+    {background-image: url(/computer.gif)}
+a:visited
+    {color: yellow}
+table
+    {background-color: black}

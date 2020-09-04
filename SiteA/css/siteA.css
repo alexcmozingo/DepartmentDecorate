@@ -1,1 +1,39 @@
-
+body 
+    {background-color: gold;}
+img
+    {height: 200px; width: 200px;}
+table
+    {background-color: azure;
+    border: 2px solid black;
+    border-collapse: collapse}
+th, td
+    {border: 2px solid black}
+#studioArt
+    {background-color: aliceblue}
+#economics
+    {background-color: limegreen}
+#politics
+    {background-color: navy;}
+#politics p 
+    {color: white}
+#politics table 
+    {color: navy}
+#politics h1 
+    {color: white}
+#ComputerScience
+    {background-color: aquamarine}
+#Mathematics
+    {background-image: url(../../howtoovercom.jpg);
+    color: red;
+    font-size: 140%}
+#Mathematics p
+    {font-weight: bold}
+a:link 
+    {color: firebrick}
+a:visited 
+    {color:forestgreen}
+ul 
+    {font-family: cursive; 
+        font-size: 170%;
+list-style-type: square;
+}
